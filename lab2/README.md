@@ -6,10 +6,11 @@
 **Course:** Backend Development Fundamentals
 **Institution:** Aurora Deemed to be University
 **Faculty:** SHIVA SAI TEJA
+**Title:** SQLite database and CRUD routes
 
-## Live Link
+## Live Link https://vinuthna-5017-lab2.onrender.com/books
 
-**Status:** Not deployed yet.
+**Status:** deployed
 
 This project has been tested locally using Postman. The current version uses a local SQLite database file (`database.db`). Postman screenshots are included as evidence of the working endpoints. A public deployment URL will be added after deployment.
 
